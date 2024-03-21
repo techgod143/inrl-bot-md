@@ -7,7 +7,7 @@
     "SESSION_ID": {
       "description": "to run the bot",
       "required": true,
-      "value": ""
+      "value": "inrl~4faf3xRyyc1ad0b7c4442750e597e67bac7f"
     },
     "HEROKU_API_KEY": {
       "description": "For updating bot and setting vars remotely",
